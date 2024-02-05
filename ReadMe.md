@@ -1,5 +1,5 @@
 # About Me:
-<br>Hello, I'm Rinky Rajkumar!<br><br>I am currently based in Bangalore, India.<br><br>I'm currently a student pursuing a Bachelor's in Computer Science and Engineering.<br><br>I am dedicated to honing my coding skills and continuously striving for improvement.<br><br>Open to collaborations and eager to learn from the coding community.<br><br>Feel free to connect with me as I navigate through the world of technology and software development.<br><br>#Programming #TechEnthusiast #LearningInPublic
+<br>Hello, I'm Rinky Rajkumar!<br><br>I am currently based in Bangalore, India.<br><br>I'm currently a student pursuing a Bachelor's in Computer Science and Engineering.<br><br>I am dedicated to honing my coding skills and continuously striving for improvement.<br><br>Open to collaborations and eager to learn from the coding community.<br><br>Feel free to connect with me as I navigate through the world of technology and software development.<br><br>
 
 
 # Tech Stack:
@@ -14,5 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rinkyrajkumar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
