@@ -2,10 +2,23 @@
 
 # Hi, I'm Rinky Rajkumar
 
-### Computer Science and Engineering Student | Developer in Progress | Bangalore, India
+### BTech Computer Science and Engineering Student
 
-I enjoy building practical software, improving my problem-solving skills, and learning through hands-on projects.  
-Currently focused on writing cleaner code, exploring software development, and contributing to the developer community.
+Based in Bangalore, India | From Imphal, Manipur
+
+I am learning software development by building projects, practicing problem solving, and improving my code one step at a time.
+
+<p>
+  <a href="https://github.com/RinkyRajkumar">
+    <img src="https://img.shields.io/badge/GitHub-RinkyRajkumar-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/rinky-r-503aa4217/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rinky_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rinkyrajkumar@outlook.com">
+    <img src="https://img.shields.io/badge/Email-rinkyrajkumar%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
@@ -13,10 +26,11 @@ Currently focused on writing cleaner code, exploring software development, and c
 
 ## About Me
 
-- Pursuing a Bachelor's degree in Computer Science and Engineering
-- Interested in programming, problem solving, and software development
-- Learning by building projects and improving one step at a time
-- Open to collaboration, internships, and beginner-friendly open-source work
+- Pursuing BTech in Computer Science and Engineering
+- Interested in programming, problem solving, web development, and software engineering
+- Building projects with Python, JavaScript, HTML, CSS, PHP, and Java
+- Exploring scientific computing with NumPy, Matplotlib, and SciPy
+- Open to collaboration, internships, and beginner-friendly open-source contributions
 
 ---
 
@@ -25,9 +39,15 @@ Currently focused on writing cleaner code, exploring software development, and c
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
@@ -35,12 +55,24 @@ Currently focused on writing cleaner code, exploring software development, and c
 
 ---
 
-## What I'm Working On
+## Featured Projects
+
+| Project | What it shows | Tech |
+| --- | --- | --- |
+| [snake-game-multiplayer](https://github.com/RinkyRajkumar/snake-game-multiplayer) | Server-authoritative 1v1 multiplayer Snake game with a Netlify frontend and Socket.IO backend. | JavaScript, CSS, HTML, Dockerfile |
+| [Projects](https://github.com/RinkyRajkumar/Projects) | Python practice projects including games, calculators, and beginner programming exercises. | Python |
+| [Rinky-s-Sneaker-Store-](https://github.com/RinkyRajkumar/Rinky-s-Sneaker-Store-) | Practice sneaker store website with multiple frontend pages and basic server files. | CSS, HTML, JavaScript, PHP |
+| [portfolio-netlify](https://github.com/RinkyRajkumar/portfolio-netlify) | Portfolio project scaffolded with React and Vite. | JavaScript, CSS, HTML |
+
+---
+
+## Current Focus
 
 - Strengthening data structures and algorithms
-- Building small, useful projects with Python, Java, and web technologies
-- Practicing clean code, debugging, and version control
-- Exploring scientific computing with NumPy, Matplotlib, and SciPy
+- Building cleaner and more responsive web projects
+- Learning frontend development with React and Vite
+- Practicing backend and realtime concepts with Node.js and Socket.IO
+- Improving Git, GitHub, and project documentation skills
 
 ---
 
@@ -55,30 +87,12 @@ Currently focused on writing cleaner code, exploring software development, and c
 
 ---
 
-## Featured Projects
+## Profile Snapshot
 
-> Add your best repositories here as you build them.
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| `Project Name` | Short description of what the project does. | Python / Java / Web |
-| `Project Name` | Short description of what you learned or solved. | HTML / CSS / PHP |
-
----
-
-## Connect With Me
-
-<p>
-  <a href="https://github.com/RinkyRajkumar">
-    <img src="https://img.shields.io/badge/GitHub-RinkyRajkumar-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/LinkedIn-Add_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+- GitHub profile: [RinkyRajkumar](https://github.com/RinkyRajkumar)
+- Public repositories: 12
+- LinkedIn: [rinky-r-503aa4217](https://www.linkedin.com/in/rinky-r-503aa4217/)
+- Email: [rinkyrajkumar@outlook.com](mailto:rinkyrajkumar@outlook.com)
 
 ---
 
