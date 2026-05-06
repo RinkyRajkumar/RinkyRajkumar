@@ -1,13 +1,91 @@
-<h1 align="center">Hi, I'm Rinky Rajkumar</h1> <p align="center"> Computer Science and Engineering student based in Bangalore, India. <br /> Building my coding skills, learning continuously, and exploring software development. </p>
-About Me
-Pursuing a Bachelor's degree in Computer Science and Engineering
-Interested in programming, problem solving, and software development
-Focused on improving through practice, projects, and collaboration
-Open to learning from the developer community and contributing where I can
-Tech Stack
-<p> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" /> <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" /> </p>
-GitHub Stats
-<p> <img src="https://github-readme-stats.vercel.app/api?username=rinkyrajkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Rinky's GitHub stats" /> </p> <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinkyrajkumar&theme=dark&hide_border=false" alt="Rinky's GitHub streak" /> </p> <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinkyrajkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" /> </p>
-Top Contributed Repositories
-<p> <img src="https://github-contributor-stats.vercel.app/api?username=rinkyrajkumar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repositories" /> </p>
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=rinkyrajkumar&icon=0&color=0" alt="Profile visit count" /> </p>
+<div align="center">
+
+# Hi, I'm Rinky Rajkumar
+
+### Computer Science and Engineering Student | Developer in Progress | Bangalore, India
+
+I enjoy building practical software, improving my problem-solving skills, and learning through hands-on projects.  
+Currently focused on writing cleaner code, exploring software development, and contributing to the developer community.
+
+</div>
+
+---
+
+## About Me
+
+- Pursuing a Bachelor's degree in Computer Science and Engineering
+- Interested in programming, problem solving, and software development
+- Learning by building projects and improving one step at a time
+- Open to collaboration, internships, and beginner-friendly open-source work
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+</p>
+
+---
+
+## What I'm Working On
+
+- Strengthening data structures and algorithms
+- Building small, useful projects with Python, Java, and web technologies
+- Practicing clean code, debugging, and version control
+- Exploring scientific computing with NumPy, Matplotlib, and SciPy
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RinkyRajkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rinky's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinkyRajkumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+## Featured Projects
+
+> Add your best repositories here as you build them.
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| `Project Name` | Short description of what the project does. | Python / Java / Web |
+| `Project Name` | Short description of what you learned or solved. | HTML / CSS / PHP |
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://github.com/RinkyRajkumar">
+    <img src="https://img.shields.io/badge/GitHub-RinkyRajkumar-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-Add_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile
+
+![Profile views](https://komarev.com/ghpvc/?username=RinkyRajkumar&style=for-the-badge&color=blueviolet)
+
+</div>
