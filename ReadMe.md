@@ -54,18 +54,6 @@ I am learning software development by building projects, practicing problem solv
 </p>
 
 ---
-
-## Featured Projects
-
-| Project | What it shows | Tech |
-| --- | --- | --- |
-| [snake-game-multiplayer](https://github.com/RinkyRajkumar/snake-game-multiplayer) | Server-authoritative 1v1 multiplayer Snake game with a Netlify frontend and Socket.IO backend. | JavaScript, CSS, HTML, Dockerfile |
-| [Projects](https://github.com/RinkyRajkumar/Projects) | Python practice projects including games, calculators, and beginner programming exercises. | Python |
-| [Rinky-s-Sneaker-Store-](https://github.com/RinkyRajkumar/Rinky-s-Sneaker-Store-) | Practice sneaker store website with multiple frontend pages and basic server files. | CSS, HTML, JavaScript, PHP |
-| [portfolio-netlify](https://github.com/RinkyRajkumar/portfolio-netlify) | Portfolio project scaffolded with React and Vite. | JavaScript, CSS, HTML |
-
----
-
 ## Current Focus
 
 - Strengthening data structures and algorithms
